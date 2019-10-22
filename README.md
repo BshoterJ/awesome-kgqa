@@ -1,4 +1,4 @@
-# KGQA-Paper-List
+# Awesome-knowledge-graph-question-answering
 Materials of knowledge graph question answering.
 
 ## Papers
