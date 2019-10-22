@@ -3,7 +3,7 @@ A collection of some materials of knowledge graph question answering
 
 ## Papers
 
-- :star: **ACL 2015**-**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base** 
+:star: **ACL 2015**-**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base** 
 [[paper]](https://www.microsoft.com/en-us/research/publication/semantic-parsing-via-staged-query-graph-generation-question-answering-with-knowledge-base/)[[code]](https://github.com/scottyih/STAGG) 
 
 - **CIKM 2015**-More Accurate Question Answering on Freebase 
@@ -15,10 +15,10 @@ A collection of some materials of knowledge graph question answering
 - **COLING 2016**-Simple Question Answering by Attentive Convolutional Neural Network
 [[paper]](https://www.aclweb.org/anthology/C16-1164.pdf)
 
-- :star:  **ACL 2017**-**Improved Neural Relation Detection for Knowledge Base Question Answering**
+:star:  **ACL 2017**-**Improved Neural Relation Detection for Knowledge Base Question Answering**
 [[paper]](https://arxiv.org/pdf/1704.06194.pdf)
 
-- :star:  **ACL 2017**-**An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge**
+:star:  **ACL 2017**-**An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge**
 [[paper]](https://www.aclweb.org/anthology/P17-1021.pdf)
 
 - **EMNLP 2017**-No Need to Pay Attention: Simple Recurrent Neural Networks Work!(for Answering “Simple” Questions)
@@ -45,7 +45,7 @@ A collection of some materials of knowledge graph question answering
 - **EMNLP 2018**-Retrieve and Re-rank: A Simple and Effective IR Approach to Simple Question Answering over Knowledge Graphs
 [[paper]](https://www.aclweb.org/anthology/W18-5504.pdf)
 
-- :star:  **ACL 2018**-**Question Answering over Freebase via Attentive RNN with Similarity Matrix based CNN** 
+:star:  **ACL 2018**-**Question Answering over Freebase via Attentive RNN with Similarity Matrix based CNN** 
 [[paper]](https://arxiv.gg363.site/vc/arxiv/papers/1804/1804.03317v2.pdf)[[code]](https://github.com/quyingqi/kbqa-ar-smcnn)
 
 - **IJCAI 2018**-Commonsense Knowledge Aware Conversation Generation with Graph Attention
@@ -72,13 +72,13 @@ A collection of some materials of knowledge graph question answering
 - **ACL 2018**-Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking
 [[paper]](https://people.cs.umass.edu/~luke/hierarchical-losses-resources.pdf)[[code]](https://github.com/MurtyShikhar/Hierarchical-Typing)
 
-- :star:  **ACL 2018**-**Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**
+:star:  **ACL 2018**-**Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**
 [[paper]](https://arxiv.gg363.site/pdf/1804.08217.pdf)[[code]](https://github.com/HLTCHKUST/Mem2Seq)
 
-- :star:  **NAACL 2019**-**Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases**
+:star:  **NAACL 2019**-**Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases**
 [[paper]](https://arxiv.org/pdf/1903.02188.pdf)[[code]](https://github.com/hugochan/BAMnet)
 
-- :star:  **ACL 2019**-**Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader**
+:star:  **ACL 2019**-**Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader**
 [[paper]](https://arxiv.org/pdf/1905.07098.pdf)[[code]](https://github.com/xwhan/Knowledge-Aware-Reader)
 
 - **AAAI 2019**-Lattice CNNs for Matching Based Chinese Question Answering
@@ -87,7 +87,7 @@ A collection of some materials of knowledge graph question answering
 - **WSDM 2019**-Knowledge Graph Embedding Based Question Answering
 [[paper]](http://delivery.acm.org/10.1145/3300000/3290956/p105-huang.pdf?ip=115.156.143.194&id=3290956&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2ECC932049E1B2BA72%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1571675092_76f56bedcea4d1b226688787c8155752)[[code]](https://github.com/xhuang31/KEQA_WSDM19)
 
-- :star:  **NAACL 2019**-**Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering**
+:star:  **NAACL 2019**-**Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering**
 [[paper]](https://pdfs.semanticscholar.org/8bc3/3f2d6bb9e6100b720e09c44e6c3ebee5614f.pdf?_ga=2.213130196.1139564236.1571666084-1338815220.1571666084)
 
 - **NAACL 2019**-FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase
@@ -102,18 +102,18 @@ A collection of some materials of knowledge graph question answering
 - **ACL 2019**-Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering
 [[paper]](https://arxiv.gg363.site/pdf/1907.07328.pdf)
 
-- :star:  **IJCAI 2019**-**Learning to Select Knowledge for Response Generation in Dialog Systems**
+:star:  **IJCAI 2019**-**Learning to Select Knowledge for Response Generation in Dialog Systems**
 [[paper]](https://www.ijcai.org/proceedings/2019/0706.pdf)
 
 
 
 ## Open source projects
 
-- :star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph)
+:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph)
 
-- :star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) (python2.7 jena)
+:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) (python2.7 jena)
 
-- :star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT)(BERT python3 tensorflow)
+:star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT)(BERT python3 tensorflow)
 
 - [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) (python3 neo4j)
 
@@ -137,9 +137,9 @@ A collection of some materials of knowledge graph question answering
 
 ## Blogs
 
-- :star:  [**Trends in Natural Language Processing: ACL 2019 In Review**](https://www.mihaileric.com/posts/nlp-trends-acl-2019/)
+:star:  [**Trends in Natural Language Processing: ACL 2019 In Review**](https://www.mihaileric.com/posts/nlp-trends-acl-2019/)
 
-- :star:  [**揭开知识库问答KB-QA的面纱系列专题**](https://zhuanlan.zhihu.com/p/27141786)
+:star:  [**揭开知识库问答KB-QA的面纱系列专题**](https://zhuanlan.zhihu.com/p/27141786)
 
 - [Papers list of knowledge extraction、mining and storing](https://github.com/Pelhans/paper_list/tree/master/knowledge_graph)
 
@@ -153,9 +153,9 @@ A collection of some materials of knowledge graph question answering
 
 ## Tools
 
-- :star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
+:star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
 
-- :star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE)
+:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE)
 
 - [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/), [NER paper](https://github.com/thunlp/NREPapers)
 
