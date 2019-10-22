@@ -1,5 +1,5 @@
 # KGQA-Paper-List
-A collection of some materials of knowledge graph question answering
+Materials of knowledge graph question answering.
 
 ## Papers
 
