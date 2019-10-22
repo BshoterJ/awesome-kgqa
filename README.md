@@ -179,4 +179,4 @@ A collection of some materials of knowledge graph question answering
 
 - [CCKS 2019 开放领域的中文问答任务](https://www.biendata.com/competition/ccks_2019_6/)
 
-- [NLPCC 2010 Open Domain conversation](http://tcci.ccf.org.cn/conference/2019/cfpt.php)
+- [NLPCC 2019 Open Domain conversation](http://tcci.ccf.org.cn/conference/2019/cfpt.php)
