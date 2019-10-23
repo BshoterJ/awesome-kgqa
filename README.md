@@ -44,6 +44,9 @@ Some papers I have read
 - **COLING 2018**-[Pattern-revising Enhanced Simple Question Answering over Knowledge Bases
 ](https://www.aclweb.org/anthology/C18-1277.pdf)
 
+- **COLING 2018**-[An Interpretable Reasoning Network for Multi-Relation Question Answering
+](https://www.aclweb.org/anthology/C18-1171.pdf):smile:[[code]](https://github.com/zmtkeke/IRN)
+
 - **ACL 2018**-[Transliteration Better than Translation? Answering Code-mixed Questions over a Knowledge Base
 ](https://www.aclweb.org/anthology/W18-3205.pdf)
 
@@ -54,6 +57,8 @@ Some papers I have read
 :star:  **NAACL 2019**-[**Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering**](https://pdfs.semanticscholar.org/8bc3/3f2d6bb9e6100b720e09c44e6c3ebee5614f.pdf?_ga=2.213130196.1139564236.1571666084-1338815220.1571666084)
 
 - **NAACL 2019**-[Simple Question Answering with Subgraph Ranking and Joint-Scoring](https://www.aclweb.org/anthology/N19-1029.pdf)
+
+- **NAACL 2019**-[UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1031.pdf)
 
 ### Methods based on semanic parsing
 
