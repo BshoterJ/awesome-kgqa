@@ -6,7 +6,7 @@ TO BE CONTINUED :sunglasses:
 ## Papers
 
 ### Survey of KGQA
-:star:  [Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs](https://arxiv.org/pdf/1907.09361.pdf)
+:star:  [**Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs**](https://arxiv.org/pdf/1907.09361.pdf)
 
 ### Methods based on text matching
 
