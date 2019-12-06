@@ -169,7 +169,7 @@ TO BE CONTINUED :soon:
 - [NLPCC-MH 中文多跳问答数据集](https://github.com/wavewangyue/NLPCC-MH)
 
 
-## Comprtitions
+## Competitions
 
 - [瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.457933afBacvqN&raceId=231687)
 
