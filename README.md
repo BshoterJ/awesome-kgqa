@@ -1,7 +1,7 @@
 # Awesome-knowledge-graph-question-answering
 Materials of knowledge graph question answering.
 
-TO BE CONTINUED :arrow_right:
+TO BE CONTINUED :soon:
 
 ## Papers
 
