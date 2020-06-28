@@ -112,6 +112,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT)(BERT python3 tensorflow)
 
+:star:  [**CCKS2019 CKBQA评测获得第四名解决方案**](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes)(BERT python3 keras-bert)
 - [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) (python3 neo4j)
 
 - [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)(python3 neo4j)
