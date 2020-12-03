@@ -75,6 +75,8 @@ TO BE CONTINUED :soon:
 
 ### Methods based on seq2seq
 
+- **SEMANTICS 2017**-[SPARQL as a Foreign Language](https://arxiv.org/abs/1708.07624):smile:[[code]](https://github.com/LiberAI/NSpM)
+
 - **IJCAI 2018**-[Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf):smile:[[code]](https://github.com/tuxchow/ccm)
 
 - **COLING 2018**-[The APVA-TURBO Approach To Question Answering in Knowledge Base ](https://www.aclweb.org/anthology/C18-1170.pdf):smile:[[code]](https://github.com/wavewangyue/kbqa)
