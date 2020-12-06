@@ -140,6 +140,8 @@ TO BE CONTINUED :soon:
 
 :star:  [**揭开知识库问答KB-QA的面纱系列专题**](https://zhuanlan.zhihu.com/p/27141786)
 
+- [Introduction to Question Answering over Knowledge Graphs](https://yashuseth.blog/2019/10/08/introduction-question-answering-knowledge-graphs-kgqa/)
+
 - [Papers list of knowledge extraction、mining and storing](https://github.com/Pelhans/paper_list/tree/master/knowledge_graph)
 
 - [A github projects list of a master student](https://liuhuanyong.github.io/)
