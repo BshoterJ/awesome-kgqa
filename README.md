@@ -62,7 +62,7 @@ TO BE CONTINUED :soon:
 
 - **NAACL 2019**-[UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1031.pdf)
 
-### Methods based on semanic parsing
+### Methods based on semantic parsing
 
 :star: **ACL 2015**-[**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base**](https://www.microsoft.com/en-us/research/publication/semantic-parsing-via-staged-query-graph-generation-question-answering-with-knowledge-base/):smile:[[code]](https://github.com/scottyih/STAGG) 
 
